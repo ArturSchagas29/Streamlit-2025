@@ -25,7 +25,8 @@ A construção deste projeto envolveu as seguintes tecnologias e bibliotecas:
 
 ## 📷 Demonstração
 > 
-> ![Demonstração do Dashboard]<img width="2557" height="908" alt="image" src="https://github.com/user-attachments/assets/947713ce-8af2-401d-bffc-3ec73a784764" />
+> ![Demonstração do Dashboard]<img width="2557" height="908" alt="image" src="https://github.com/user-attachments/assets/947713ce-8af2-401d-bffc-3ec73a784764" /> <img width="1449" height="812" alt="Captura de tela 2026-03-18 215505" src="https://github.com/user-attachments/assets/e158357c-b09a-4287-8bef-752730b46121" />
+
 
 
 
